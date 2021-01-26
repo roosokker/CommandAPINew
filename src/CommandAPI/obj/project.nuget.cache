@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CP4ngvlI7GIF0Asm6STV7mzG/Y1jwH0wonKRFWLrc5TNrieD2nsNE3K/UzJO+o5vrap81tjmeIsMkZ2SbBL+SA==",
+  "dgSpecHash": "3giTdt9saRkMxU/PlkJC8do+vjkmpMETs7b+4N+rf6uXl7AaKcZkkHBhEhf9RBOGM6L5s12iQtNgTw6Mq8Kmuw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rodai\\Documents\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj",
+  "projectFilePath": "C:\\Users\\rodai\\Documents\\CommandAPISolution\\src\\commandapi\\CommandAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rodai\\.nuget\\packages\\automapper\\10.1.0\\automapper.10.1.0.nupkg.sha512",
     "C:\\Users\\rodai\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",

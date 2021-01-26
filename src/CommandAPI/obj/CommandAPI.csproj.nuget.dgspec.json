@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rodai\\Documents\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj": {}
+    "C:\\Users\\rodai\\Documents\\CommandAPISolution\\src\\commandapi\\CommandAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rodai\\Documents\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj": {
+    "C:\\Users\\rodai\\Documents\\CommandAPISolution\\src\\commandapi\\CommandAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rodai\\Documents\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj",
+        "projectUniqueName": "C:\\Users\\rodai\\Documents\\CommandAPISolution\\src\\commandapi\\CommandAPI.csproj",
         "projectName": "CommandAPI",
-        "projectPath": "C:\\Users\\rodai\\Documents\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj",
+        "projectPath": "C:\\Users\\rodai\\Documents\\CommandAPISolution\\src\\commandapi\\CommandAPI.csproj",
         "packagesPath": "C:\\Users\\rodai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rodai\\Documents\\CommandAPISolution\\src\\CommandAPI\\obj\\",
+        "outputPath": "C:\\Users\\rodai\\Documents\\CommandAPISolution\\src\\commandapi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rodai\\AppData\\Roaming\\NuGet\\NuGet.Config",
