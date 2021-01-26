@@ -151,7 +151,7 @@ namespace CommandAPI.Tests
         }
 
         [Fact]
-        public void GetCommandByID_Returns200OK__WhenValidIDProvided()
+        public void GetCommandByID_Returns200OK__WhenValidIDProvided2()
         {
             //Arrange
             mockRepo.Setup(repo =>
@@ -169,8 +169,7 @@ namespace CommandAPI.Tests
         }
 
         [Fact]
-        public void CreateCommand_ReturnsCorrectResourceType_
-        WhenValidObjectSubmitted()
+        public void CreateCommand_ReturnsCorrectResourceType_WhenValidObjectSubmitted()
         {
             //Arrange
             mockRepo.Setup(repo =>
@@ -256,8 +255,7 @@ namespace CommandAPI.Tests
         }
 
         [Fact]
-        public void DeleteCommand_Returns204NoContent_
-        WhenValidResourceIDSubmitted()
+        public void DeleteCommand_Returns204NoContent_WhenValidResourceIDSubmitted()
         {
             //Arrange
             mockRepo.Setup(repo =>
